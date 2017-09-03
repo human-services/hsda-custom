@@ -1,2 +1,4 @@
-# hsda-custom
-This is the repository for the human services data API (HSDA) custo.
+# HSDA
+This is the human services data API (HSDA).
+
+URL: http://developer.open.referral.adopta.agency/
